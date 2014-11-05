@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj X_PROJECT -o "C:/Users/Oscar Montes/Desktop/TEC/Tec 2014 ii/Taller de Diseno/FPGA-Musician--master/X_PROJECT/LIMITE_CANCION.tfi" -lib work "C:/Users/Oscar Montes/Desktop/TEC/Tec 2014 ii/Taller de Diseno/FPGA-Musician--master/X_PROJECT//LIMITE_CANCION.v" -module LIMITE_CANCION -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

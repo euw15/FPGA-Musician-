@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+LIMITE_CANCION instance_name (
+    .CS(CS), 
+    .clean_limite(clean_limite), 
+    .dir_temporal(dir_temporal), 
+    .limitDirection(limitDirection)
+    );
+
+
