@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+FSMMovimientoNotas FSMMovimientoNotas (
+    .clock(clock), 
+    .reset(reset), 
+    .notaActual(notaActual), 
+    .movimientoIzquierda(movimientoIzquierda), 
+    .movimientoDerecha(movimientoDerecha)
+    );
+
+

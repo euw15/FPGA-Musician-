@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj X_PROJECT -o "C:/Documents and Settings/Melvin/Desktop/AUDIO CRACK/X_PROJECT/AUDIO.tfi" -lib work "C:/Documents and Settings/Melvin/Desktop/AUDIO CRACK/X_PROJECT//AUDIO.v" -module AUDIO -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj X_PROJECT -o "C:/Users/Edward/Desktop/FPGA-Musician--master/X_PROJECT v2/FSMMovimientoNotas.tfi" -lib work "C:/Users/Edward/Desktop/FPGA-Musician--master/X_PROJECT v2//FSMMovimientoNotas.v" -module FSMMovimientoNotas -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

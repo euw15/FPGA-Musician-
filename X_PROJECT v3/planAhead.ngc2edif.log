@@ -1,0 +1,31 @@
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design TOP.ngc ...
+WARNING:NetListWriters:298 - No output is written to TOP.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus limitDirection<5 : 1> on block TOP is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   audio/audio_i2s/gen_track2/Maccum_phase_lut<26 : 0> on block TOP is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   audio/audio_i2s/gen_track2/freq[26]_GND_11_o_mux_11_OUT<26 : 0> on block TOP
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus audio/audio_i2s/gen_track2/freq<26 : 0>
+   on block TOP is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   audio/audio_i2s/gen_track1/Maccum_phase_lut<26 : 0> on block TOP is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   audio/audio_i2s/gen_track1/freq[26]_GND_11_o_mux_11_OUT<26 : 0> on block TOP
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus audio/audio_i2s/gen_track1/freq<26 : 0>
+   on block TOP is not reconstructed, because there are some missing bus
+   signals.
+  finished :Prep
+Writing EDIF netlist file TOP.edif ...
+ngc2edif: Total memory usage is 82312 kilobytes
+

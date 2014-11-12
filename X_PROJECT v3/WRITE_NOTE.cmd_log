@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj X_PROJECT -o "C:/Documents and Settings/Melvin/Desktop/AUDIO CRACK/X_PROJECT/WRITE_NOTE.tfi" -lib work "C:/Documents and Settings/Melvin/Desktop/AUDIO CRACK/X_PROJECT//WRITE_NOTE.v" -module WRITE_NOTE -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
